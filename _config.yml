@@ -55,5 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 
-
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: jekyll-theme-yat
