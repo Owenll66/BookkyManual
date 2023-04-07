@@ -219,4 +219,4 @@ plugins:
   - jekyll-spaceship
 
 
-remote_theme: jekyll-theme-yat
+theme: jekyll-theme-yat
