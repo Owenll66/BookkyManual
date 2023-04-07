@@ -5,6 +5,6 @@ gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.8"
 # gem 'wdm', '~> 0.1.0'
 gemspec
-# gem "jekyll-theme-yat"
+gem "jekyll-theme-yat"
 gem "github-pages", group: :jekyll_plugins
 
