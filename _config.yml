@@ -218,5 +218,5 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: jekyll-theme-yat
 # theme: jekyll-theme-yat
