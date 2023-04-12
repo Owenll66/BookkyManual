@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Bookky
+email: wgh0001992@gmail.com
+author: Bookky
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -134,6 +134,8 @@ yat:
 # the browser is closed or not)
 #
 # night_mode: "auto"
+
+# night_mode: "off"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
