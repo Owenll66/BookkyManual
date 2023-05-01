@@ -220,6 +220,6 @@ plugins:
   - jekyll-spaceship
 
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 
-# theme: jekyll-theme-yat
+theme: jekyll-theme-yat
