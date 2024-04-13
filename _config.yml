@@ -223,3 +223,5 @@ plugins:
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # theme: jekyll-theme-yat
+
+site.copyright = "All rights reserved 2024-{currentYear} Bookky"
